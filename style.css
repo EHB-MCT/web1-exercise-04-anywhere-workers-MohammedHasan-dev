@@ -1,1 +1,18 @@
-/* nothing here */
+body{
+    background-color: rgb(10, 195, 99);
+    margin: 50px;
+}
+h1{ 
+    font-size: 120px;
+    color: aqua;
+    line-height: 150px;
+    margin-bottom: 50px;
+}
+p{
+    font-size: 20px;
+    color: rgb(192, 7, 148);
+    width: 50%;
+    margin-bottom: 40px;
+    fon
+
+}
