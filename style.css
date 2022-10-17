@@ -1,8 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Spectral:wght@600&display=swap');
+
 body{
     background-color: rgb(10, 195, 99);
     margin: 50px;
+    font-family:'karla', sans-serif;
+
+    background-image: url(images/anywhere-workers.gif);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 850px;
+
+
 }
 h1{ 
+
+    font-family: 'spectral', sans-serif;
     font-size: 120px;
     color: aqua;
     line-height: 150px;
@@ -15,4 +28,26 @@ p{
     margin-bottom: 40px;
     fon
 
+}
+
+.read-more {
+    color: #f33;
+    margin-bottom:80px;
+    text-transform: uppercase;
+    font-seize: 16px;
+    letter-spacing: 3px;
+
+
+}
+
+a{
+    background-color: #f33;
+    padding: 20px 30px;
+    border-radius: 30px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 3px;
 }
